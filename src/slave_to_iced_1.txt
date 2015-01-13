@@ -114,6 +114,78 @@ tmp = death_treat
 death_treat = death_treat_iced_1
 death_treat_iced_1 = tmp
 
+temp = slave_sleep_condition
+slave_sleep_condition = iced_1_slave_sleep_condition
+iced_1_slave_sleep_condition = temp
+
+temp = slave_food_type
+slave_food_type = iced_1_slave_food_type
+iced_1_slave_food_type = temp
+
+temp = slave_eats_remains
+slave_eats_remains = iced_1_slave_eats_remains
+iced_1_slave_eats_remains = temp
+
+temp = slave_ration
+slave_ration = iced_1_slave_ration
+iced_1_slave_ration = temp
+
+temp = slave_food_portion
+slave_food_portion = iced_1_slave_food_portion
+iced_1_slave_food_portion = temp
+
+temp = vitamin
+vitamin = iced_1_vitamin
+iced_1_vitamin = temp
+
+temp = silence_rule
+silence_rule = iced_1_silence_rule
+iced_1_silence_rule = temp
+
+temp = master_rule
+master_rule = iced_1_master_rule
+iced_1_master_rule = temp
+
+temp = orgasm_prohibited
+orgasm_prohibited = iced_1_orgasm_prohibited
+iced_1_orgasm_prohibited = temp
+
+temp = shit_prohibited
+shit_prohibited = iced_1_shit_prohibited
+iced_1_shit_prohibited = temp
+
+temp = pet_rule
+pet_rule = iced_1_pet_rule
+iced_1_pet_rule = temp
+
+temp = blowjob_rule
+blowjob_rule = iced_1_blowjob_rule
+iced_1_blowjob_rule = temp
+
+temp = pissuar_rule
+pissuar_rule = iced_1_pissuar_rule
+iced_1_pissuar_rule = temp
+
+temp = toilet_rule
+toilet_rule = iced_1_toilet_rule
+iced_1_toilet_rule = temp
+
+temp = slave_cleans_rule
+slave_cleans_rule = iced_1_slave_cleans_rule
+iced_1_slave_cleans_rule = temp
+
+temp = slave_cooks_rule
+slave_cooks_rule = iced_1_slave_cooks_rule
+iced_1_slave_cooks_rule = temp
+
+temp = slave_washes_rule
+slave_washes_rule = iced_1_slave_washes_rule
+iced_1_slave_washes_rule = temp
+
+temp = slave_tentacle_rule
+slave_tentacle_rule = iced_1_slave_tentacle_rule
+iced_1_slave_tentacle_rule = temp
+
 gs '#txt'
 gs '#txt_2'
 gs '$newloc'
